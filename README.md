@@ -1,5 +1,12 @@
 # Endee: High-Performance Open Source Vector Database
 
+## Project Usage
+
+This fork of Endee is used as the vector database backend
+for a Retrieval Augmented Generation (RAG) project developed
+as part of Endee Labs project-based evaluation.
+
+
 **Endee (nD)** is a specialized, high-performance vector database built for speed and efficiency. This guide covers supported platforms, dependency requirements, and detailed build instructions using both our automated installer and manual CMake configuration.
 
 there are 3 ways to build and run endee:
